@@ -17,8 +17,10 @@ input, audio {
     margin: 10px auto;
 }
 canvas {
+    display: block;
     background: #000;
     border-radius: 8px;
-    width: 600px;
-    height: 300px;
+    width: min(600px, 94vw);
+    height: min(300px, 45vw);
+    margin: 16px auto;
 }
