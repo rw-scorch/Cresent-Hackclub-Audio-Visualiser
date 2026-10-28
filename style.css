@@ -18,7 +18,7 @@ input, audio {
 }
 canvas {
     display: block;
-    background: #000;
+    background: #f12;
     border-radius: 8px;
     width: min(600px, 94vw);
     height: min(300px, 45vw);
